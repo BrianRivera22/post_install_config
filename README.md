@@ -60,7 +60,7 @@ We can give this agent a department and assign this agent the Supreme Admin role
 <br />
 
 <p>
-<img src="https://github.com/BrianRivera22/post_install_config/blob/main/osTicket%20Post-Installation%20Setup/5.png"/>
+<img src="https://github.com/BrianRivera22/post_install_config/blob/main/osTicket%20Post-Installation%20Setup/5(corrected).png"/>
 </p>
 <p>
 Configure another agent and assign this agent the Support role in the Access tab with All Access. Choose what permissions he can have in the Permissions tab. I recommend giving him permissions to at least work tickets for our Ticket Life Cycle Simulation project.
